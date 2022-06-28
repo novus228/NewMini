@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782687356349",
+    "project_id": "placebuddy-dabac",
+    "storage_bucket": "placebuddy-dabac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782687356349:android:2ae8ddf7e448e11833fed4",
+        "android_client_info": {
+          "package_name": "com.example.newmini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782687356349-7lrkcvqr1v2c28krtrnrg75v2odk748c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgKRXjHgePxFw1L-J2uS-BEUvLeZqhYPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782687356349-7lrkcvqr1v2c28krtrnrg75v2odk748c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

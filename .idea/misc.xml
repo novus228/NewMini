@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/drawable-v24/post_button_blue.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/drawable-v24/post_button_white.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/drawable/bac2_button.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/drawable/bac_button.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/drawable/input_textbg.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/drawable/post_button.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_add_post.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_aptitude.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_cn.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_dbms.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_dsa.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_os.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_post.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_prepration.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_second.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/dashboard_sample.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/fragment_login_page.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/fragment_new_post.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/layout/fragment_post_scroll.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMini/app/src/main/res/mipmap-anydpi-v26/ic_plus.xml" value="0.1945" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
